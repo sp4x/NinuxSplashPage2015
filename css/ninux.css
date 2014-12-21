@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+.img-circle {
+	width: 140px;
+	height: 140px;
+}
+
+.slide-two {
+	color: black;
+}
+
+.marketing h1, h2, h3 {
+	color: #f14623;
+/* 	color: #ff6600; */
+}
+
+.marketing .text-muted {
+	color: #ff9f2f; 
+}
