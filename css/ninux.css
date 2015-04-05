@@ -5,15 +5,21 @@
 	height: 140px;
 }
 
-.slide-two {
-	color: black;
+.carousel-inner .item !important {
+	background-color: #f14623;
 }
 
 .marketing h1, h2, h3 {
-	color: #f14623;
+/* 	color: #f14623; */
 /* 	color: #ff6600; */
+	color: #f14623;
+}
+
+.logo {
+	width: 500px;
+	height: auto;
 }
 
 .marketing .text-muted {
-	color: #ff9f2f; 
+	color: #f14623; 
 }
