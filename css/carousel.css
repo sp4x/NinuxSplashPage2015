@@ -149,3 +149,28 @@ body {
     margin-top: 120px;
   }
 }
+
+
+.img-circle {
+	width: 140px;
+	height: 140px;
+}
+
+.carousel-inner .item !important {
+	background-color: #f14623;
+}
+
+.marketing h1, h2, h3 {
+/* 	color: #f14623; */
+/* 	color: #ff6600; */
+	color: #f14623;
+}
+
+.logo {
+	width: 500px;
+	height: auto;
+}
+
+.marketing .text-muted {
+	color: #f14623; 
+}
