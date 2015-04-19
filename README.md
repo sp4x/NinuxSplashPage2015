@@ -2,8 +2,8 @@ La splash page è hostata sul server `splash.spax.cs`, in alternativa è suffici
 
 Se si utilizza un proprio server occorre inserire l'URL appropriato nei file `splash.html` e `nodogsplash.conf`
 
-    sed -i 's/spax.spax.cs/<vostro-server>/g' splash.html
-    sed -i 's/spax.spax.cs/<vostro-server>/g' nodogsplash.conf
+    sed -i 's/splash.spax.cs/<vostro-server>/g' splash.html
+    sed -i 's/splash.spax.cs/<vostro-server>/g' nodogsplash.conf
     
 Per settare correttamente nodogsplash:
 
