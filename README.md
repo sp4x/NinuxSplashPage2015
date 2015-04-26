@@ -7,7 +7,7 @@ Se si utilizza un proprio server occorre inserire l'URL appropriato nei file `sp
     
 Per settare correttamente nodogsplash:
 
-* Impostare la corretta GatewayInterface nel file `nodogsplash.conf`.
+* In `nodogsplash.conf` impostare la corretta `GatewayInterface` e utilizzare il nomde nodo come `GatewayName`.
 * Assicurarsi che il server http sia raggiungibile dalla subnet dell'hostspot
 * Assicurarsi che la connessione alla porta 80 del server http sia consentita nel `nodogsplash.conf` in entrambe le sezioni `authenticated-users` e `preauthenticated-users`
 * Installare nodogsplash sul router
